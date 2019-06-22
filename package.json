@@ -1,10 +1,14 @@
 {
     "name": "trader-indicators",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "trader bitcoin exchange",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fabianomg/trader-indicators"
     },
     "private": false,
     "author": "fabiano da silva",
