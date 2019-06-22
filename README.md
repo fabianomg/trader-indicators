@@ -37,10 +37,9 @@ traderIndicators.returnChartData(pair, time, period, (err, result) =&gt; {
 <span class="hljs-comment">/*
 *@help buscar todos os  atributos suportados 'time e period'
 */</span>
-traderIndicators.returnChartData(<span class="hljs-string">'help'</span>, (err, result) =&gt; {
-  <span class="hljs-built_in">console</span>.log(err, result);
-});
+<span class="hljs-keyword">let</span> help = traderIndicators.returnChartData(<span class="hljs-string">"help"</span>);
+<span class="hljs-built_in">console</span>.log(help);
 </code></pre>
-<h2><a id="License_55"></a>License</h2>
+<h2><a id="License_54"></a>License</h2>
 <p>MIT</p>
-<h1><a id="Projeto_em_desenvovimento_61"></a>Projeto em desenvovimento…</h1>
+<h1><a id="Projeto_em_desenvovimento_60"></a>Projeto em desenvovimento…</h1>
