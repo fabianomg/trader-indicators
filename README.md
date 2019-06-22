@@ -16,7 +16,7 @@ $ yarn add trader-indicators
 <span class="hljs-keyword">let</span> time = <span class="hljs-string">"30m"</span>;
 <span class="hljs-keyword">let</span> period =  <span class="hljs-string">"5m"</span>;
 <span class="hljs-comment">/*
- * Essa função retorna o ChartDatado traderview.
+ * Essa função retorna o ChartData do traderview.
  * @pair é o par de moeda ex:'btc_atom','eth_xmr','usdt_btc'
  * @time é o tempo de buscar ou seja ex:'30m' 30 minutos da data atual pra tras
  *@period é o period de busca dentro do time ex:'5m' buscar a cada 5 minuto dentro de time;
