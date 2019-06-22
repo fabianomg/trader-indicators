@@ -1,0 +1,16 @@
+{
+    "name": "trader-indicators",
+    "version": "1.0.5",
+    "description": "trader bitcoin exchange",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "private": false,
+    "author": "fabiano da silva",
+    "license": "MIT",
+    "dependencies": {
+        "moment": "^2.0.0",
+        "node-fetch": "^2.6.0"
+    }
+}
